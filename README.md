@@ -1,3 +1,7 @@
+<div align="center">
+
+![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm8zMndkNXUwdG8xMXl5anIwbXF5ZXhtcjZ4dXYwNG94Zzl6eHlyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6NjTciHDVFh11crDfY/giphy.gif)
+
 # 🗄️ Suvidha CRM — Database Schema
 
 Interactive ERD for the Suvidha CRM system.  
@@ -9,7 +13,7 @@ Drag tables freely · Hover to trace relations · Crow's foot notation · Field-
 
 > **Replace `YOUR_USERNAME` with your GitHub username before publishing**
 
-[![Live Diagram](https://img.shields.io/badge/▶%20Open%20Live%20Diagram-GitHub%20Pages-5b8af5?style=for-the-badge&logo=github)](https://YOUR_USERNAME.github.io/suvidha-crm-schema/)
+[![Live Diagram](https://img.shields.io/badge/▶%20Open%20Live%20Diagram-GitHub%20Pages-5b8af5?style=for-the-badge&logo=github)](https://github.com/ANUBHAV-03042004/Suvidha-crm-schema.github.io/suvidha-crm-schema/)
 
 ---
 
@@ -75,7 +79,7 @@ https://YOUR_USERNAME.github.io/suvidha-crm-schema/
 
 The **Deploy to GitHub Pages** action badge shows build status:
 
-[![Deploy](https://github.com/YOUR_USERNAME/suvidha-crm-schema/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR_USERNAME/suvidha-crm-schema/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/ANUBHAV-03042004/suvidha-crm-schema/actions/workflows/deploy.yml/badge.svg)](https://github.com/ANUBHAV-03042004/suvidha-crm-schema/actions/workflows/deploy.yml)
 
 ---
 
@@ -154,7 +158,12 @@ npm run preview  # preview the build locally
 ```
 
 ---
+## 👤 Author
 
-## 📄 License
+**Anubhav Kumar Srivastava**
 
-MIT
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ANUBHAV-03042004)
+
+![Footer](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2prc3d2NWcxdjBrczYweXZqamdvMGg3c3h3NzBqYTY4MHNuYjdvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WjW94M0OMFawh1F0Wv/giphy.gif)
+
+**Built with ❤️ for database designing**
