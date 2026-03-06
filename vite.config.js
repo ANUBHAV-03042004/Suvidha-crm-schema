@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // then base should be '/suvidha-crm-schema/'
 export default defineConfig({
   plugins: [react()],
-  base: '/suvidha-crm-schema/',   // ← change this to your repo name
+  base: '/Suvidha-crm-schema/',   // ← change this to your repo name
 })
