@@ -29,10 +29,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install          # ← use install not ci (no lockfile needed)
 
       - name: Build
         run: npm run build
@@ -43,7 +43,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: ./dist            # ← explicit ./dist
 
       - name: Deploy to GitHub Pages
         id: deployment
