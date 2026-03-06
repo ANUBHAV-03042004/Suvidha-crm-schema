@@ -13,7 +13,7 @@ Drag tables freely · Hover to trace relations · Crow's foot notation · Field-
 
 > **Replace `YOUR_USERNAME` with your GitHub username before publishing**
 
-[![Live Diagram](https://img.shields.io/badge/▶%20Open%20Live%20Diagram-GitHub%20Pages-5b8af5?style=for-the-badge&logo=github)](https://github.com/ANUBHAV-03042004/Suvidha-crm-schema.github.io/suvidha-crm-schema/)
+[![Live Diagram](https://img.shields.io/badge/▶%20Open%20Live%20Diagram-GitHub%20Pages-5b8af5?style=for-the-badge&logo=github)](https://anubhav-03042004.github.io/Suvidha-crm-schema/)
 
 ---
 
