@@ -124,24 +124,18 @@ The **Deploy to GitHub Pages** action badge shows build status:
 | `order_details` | `purchase_id` | → | `new_ticket` | `purchase_id` | 1 : N |
 
 ---
-
 ## 📦 Project Structure
 
-```
-suvidha-crm-schema/
-├── .github/
-│   └── workflows/
-│       └── deploy.yml          ← Auto-deploy to GitHub Pages on push
-├── src/
-│   ├── main.jsx                ← React entry point
-│   └── SQLDiagram.jsx          ← Full interactive diagram component
-├── index.html                  ← Vite HTML shell
-├── vite.config.js              ← Vite config (set base = your repo name)
-├── package.json
-├── suvidha-crm-schema.png      ← Static preview for this README
-└── README.md
-```
-
+| File / Folder | Description |
+|---------------|-------------|
+| `.github/workflows/deploy.yml` | Auto-deploy to GitHub Pages |
+| `src/main.jsx` | React entry point |
+| `src/SQLDiagram.jsx` | Interactive SQL diagram |
+| `index.html` | Vite HTML shell |
+| `vite.config.js` | Vite configuration |
+| `package.json` | Project dependencies |
+| `suvidha-crm-schema.png` | README preview image |
+| `README.md` | Documentation |
 ---
 
 ## 🛠️ Local Development
